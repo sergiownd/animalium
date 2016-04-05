@@ -182,3 +182,16 @@ h2{
 #login:hover{
     background-color: #433d3d;
 }
+.rojo{
+    color: red;
+}
+.amarillo{
+    color: yellow;
+}
+.azul{
+    color: blue;
+}
+.leyenda{
+    background-color: grey;
+    width: 300px
+}
