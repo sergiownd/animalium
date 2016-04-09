@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$C:\Users\Daniel\Desktop\animalium\juegos\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+        <axuda>ayuda.html</axuda>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+         <sonido nivel="100">C:\Users\Daniel\Desktop\animalium\juegos\M_usica_Relajante_para_ninnos.mp3</sonido>
+        <correcto son="C:\Users\Daniel\Desktop\animalium\juegos\Cartoon_Winning_Sound_Effect.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="C:\Users\Daniel\Desktop\animalium\juegos\Aaawwww_-_Sound_Effect.mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="Herbivoro">C:\Users\Daniel\Desktop\animalium\juegos\Camello.jpg</cousa>
+              <cousa nome="Carnivoro">C:\Users\Daniel\Desktop\animalium\juegos\calamar.png</cousa>
+              <cousa nome="Omnivoro">C:\Users\Daniel\Desktop\animalium\juegos\oso.jpg</cousa>
+              <cousa nome="Herbivoro">C:\Users\Daniel\Desktop\animalium\juegos\ciervo.jpg</cousa>
+              <cousa nome="Carnivoro">C:\Users\Daniel\Desktop\animalium\juegos\cocodrilo.jpg</cousa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="Herbivoro">C:\Users\Daniel\Desktop\animalium\juegos\caballo.jpg</cousa>
+              <cousa nome="Omnivoro">C:\Users\Daniel\Desktop\animalium\juegos\cerdo.jpg</cousa>
+              <cousa nome="Omnivoro">C:\Users\Daniel\Desktop\animalium\juegos\codorniz.jpg</cousa>
+              <cousa nome="Carnivoro">C:\Users\Daniel\Desktop\animalium\juegos\leon.jpg</cousa>
+              <cousa nome="Herbivoro">C:\Users\Daniel\Desktop\animalium\juegos\mofeta.jpg</cousa>
+        </paxina>
+    </libro>
+</lim>

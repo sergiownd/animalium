@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <idioma>0</idioma>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>FFFFFF</cormensaxes>
+        <cortexto>000000</cortexto>
+        <axuda>ayuda.html</axuda>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>1</desordenar>
+         <sonido nivel="10">M_usica_Relajante_para_ninnos.mp3</sonido>
+        <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Bien hecho, sigue así</correcto>
+        <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >¡Intentémoslo otra vez!</incorrecto>
+        <final>C:/Users/Daniel/Desktop/animalium/tema1.html</final>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>4</tipo>
+              <cabeceira>Encuentra los animales en la sopa de letras</cabeceira>
+              <modo>2</modo>
+              <sopa enun="perro.jpg">perro</sopa>
+              <sopa enun="delfin.jpg">delfin</sopa>
+              <sopa enun="elefante.jpg">elefante</sopa>
+              <sopa enun="leon.jpg">leon</sopa>
+              <sopa enun="Escorpion.jpg">escorpion</sopa>
+              <sopa enun="ballena.jpg">ballena</sopa>
+              <sopa enun="Camello.jpg">camello</sopa>
+              <sopa enun="ciervo.jpg">ciervo</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>qwertyuiopasdfghjklzxcvbnm</fondo>
+        </paxina>
+    </libro>
+</lim>

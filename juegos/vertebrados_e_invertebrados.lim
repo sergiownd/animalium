@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>8080FF</corfondo>
+        <corbanda>C0C0C0</corbanda>
+        <cornavega>408080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <axuda>ayuda.html</axuda>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>1</desordenar>
+         <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
+        <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Bien hecho, sigue asi</correcto>
+        <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >Intentémoslo de nuevo</incorrecto>
+        <modomenu>2</modomenu>
+        <final>C:\Users\Daniel\Desktop\animalium\tema1.html</final>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica las siguientes imagenes según sean vertebrados o invertebrados</cabeceira>
+              <caixa1>Vertebrados</caixa1>
+              <caixa2>Invertebrados</caixa2>
+              <mini caixa="1">ciervo.jpg</mini>
+              <mini caixa="2">gusano.jpg</mini>
+              <mini caixa="2">Escorpion.jpg</mini>
+              <mini caixa="1">perro.jpg</mini>
+              <mini caixa="1">delfin.jpg</mini>
+              <mini caixa="2">estrella_de_mar.jpg</mini>
+              <cfondo>8080FF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="2" >
+              <tipo>7</tipo>
+              <caixa1>Vertebrados</caixa1>
+              <caixa2>Invertebrados</caixa2>
+              <mini caixa="1">murcielago.jpg</mini>
+              <mini caixa="2">cucaracha.jpg</mini>
+              <mini caixa="2">escararriba.jpg</mini>
+              <mini caixa="1">gallipato.jpg</mini>
+              <mini caixa="2">hormiga.jpg</mini>
+              <mini caixa="1">cocodrilo.jpg</mini>
+              <cfondo>8080FF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+    </libro>
+</lim>
