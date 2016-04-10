@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <idioma>0</idioma>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <axuda>ayuda.html</axuda>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+         <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
+        <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Muy bien, sigue así</correcto>
+        <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >Intentémoslo de nuevo</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>19</tipo>
+              <imaxe>jirafa.jpg</imaxe>
+              <texto><![CDATA[Largo, largo, su cuello es
+y tiene manchas en la piel.
+Si te digo más,
+sabrás quién es.]]></texto>
+              <resp texto="">Jirafa</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>19</tipo>
+              <imaxe>gaviota.jpg</imaxe>
+              <texto><![CDATA[Con su risa mañanera
+toda la playa alborota,
+pescadora y marinera.]]></texto>
+              <resp texto="">Gaviota</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <imaxe>caracol.jpg</imaxe>
+              <texto><![CDATA[Un solo portero,
+un solo inquilino,
+tu casa redonda
+la llevas contigo.]]></texto>
+              <resp texto="">Caracol</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <imaxe>cabra.jpg</imaxe>
+              <texto><![CDATA[Donde nadie sube, trepo,
+lo que nadie come, trisco,
+muy poco estoy en el valle,
+pues lo mío son los riscos.]]></texto>
+              <resp texto="">Cabra</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <imaxe>ardilla.jpg</imaxe>
+              <texto><![CDATA[¿Quién allá en lo alto
+en las ramas mora
+y allí esconde, avara,
+todo lo que roba?]]></texto>
+              <resp texto="">Ardilla</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <imaxe>lagarto.jpg</imaxe>
+              <texto><![CDATA[De verde esmeralda
+sobre la tapiada,
+rabo rabilargo, 
+pata estirada,
+corre que te corre,
+mocita salada.]]></texto>
+              <resp texto="">Lagartija</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+    </libro>
+</lim>

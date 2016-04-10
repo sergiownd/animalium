@@ -10,7 +10,7 @@
         <botonson>1</botonson>
         <maximizar>1</maximizar>
         <desordenar>1</desordenar>
-         <sonido nivel="10">M_usica_Relajante_para_ninnos.mp3</sonido>
+         <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Bien hecho, sigue así</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >¡Intentémoslo otra vez!</incorrecto>
         <final>C:/Users/Daniel/Desktop/animalium/tema1.html</final>
