@@ -33,6 +33,7 @@
               <mini caixa="2">estrella_de_mar.jpg</mini>
               <cfondo>8080FF</cfondo>
               <cadro>1</cadro>
+              <modo></modo>
         </paxina>
         <paxina id="2" >
               <tipo>7</tipo>
@@ -46,6 +47,7 @@
               <mini caixa="1">cocodrilo.jpg</mini>
               <cfondo>8080FF</cfondo>
               <cadro>1</cadro>
+              <modo></modo>
         </paxina>
     </libro>
 </lim>
