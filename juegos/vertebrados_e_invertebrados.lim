@@ -17,7 +17,7 @@
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Bien hecho, sigue asi</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >Intentémoslo de nuevo</incorrecto>
         <modomenu>2</modomenu>
-        <final>C:\Users\Daniel\Desktop\animalium\tema1.html</final>
+        <final>../menu.html</final>
     </config>
     <libro>
         <paxina id="1" >
