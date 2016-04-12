@@ -23,4 +23,21 @@ $(document).ready(function(){
             volume = true;
         }
     });
+    var audioElement = document.createElement('audio');
+    audioElement.setAttribute('src', '../');
+    audioElement.setAttribute('autoplay', 'autoplay');
+    //audioElement.load()
+    $.get();
+
+    audioElement.addEventListener("load", function() {
+        audioElement.Play();
+    }, true);
+
+    $('.play').click(function() {
+        audioElement.Play();
+    });
+    
+    $('.pause').click(function() {
+        audioElement.Stop();
+    });
 });
