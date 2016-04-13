@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <lim version="4.0">
     <config>
         <idioma>0</idioma>
@@ -13,11 +13,13 @@
          <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Muy bien, sigue así</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >¡Intentémoslo de nuevo!</incorrecto>
+        <final>../menu.html</final>
     </config>
     <libro>
         <paxina id="1" >
               <tipo>24</tipo>
               <cabeceira>¿Cuales de los siguientes animales habita en la SABANA?</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
               <etiqueta imaxe="jirafa.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="mantarraya.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="guepardo.jpg" texto="">1</etiqueta>
@@ -29,6 +31,7 @@
         <paxina id="2" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en el DESIERTO?</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
               <etiqueta imaxe="salmon.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="serpiente.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="tarantula.jpg" texto="">1</etiqueta>
@@ -40,6 +43,7 @@
         <paxina id="3" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en la SELVA?</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
               <etiqueta imaxe="pantera.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="hipo.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="loro.jpg" texto="">1</etiqueta>
@@ -51,6 +55,7 @@
         <paxina id="4" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en el BOSQUE?</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
               <etiqueta imaxe="gusano.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="elefante.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="conejo.jpg" texto="">1</etiqueta>
@@ -62,6 +67,7 @@
         <paxina id="5" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en la PRADERA?</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
               <etiqueta imaxe="sapo.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="mofeta.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="hormiga.jpg" texto="">1</etiqueta>
@@ -73,6 +79,7 @@
         <paxina id="6" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en la MONTAÑA?</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
               <etiqueta imaxe="ardilla.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="lobo7.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="esponja.jpg" texto="">0</etiqueta>

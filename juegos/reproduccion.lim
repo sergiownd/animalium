@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <idioma>0</idioma>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <axuda>ayuda.html</axuda>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+         <sonido nivel="100">M_usica_Relajante_para_ninnos.mp3</sonido>
+        <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Muy bien, Sigue así</correcto>
+        <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >¡Intentémoslo de nuevo!</incorrecto>
+        <final>../menu.html</final>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>11</tipo>
+              <cabeceira>Escribe debajo de cada animal si es oviparo o viviparo (todo en minusculas)</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir</pe>
+              <modo>1</modo>
+              <cousa nome="viviparo">ciervo.jpg</cousa>
+              <cousa nome="oviparo">saltamontes.jpg</cousa>
+              <cousa nome="viviparo">murcielago.jpg</cousa>
+              <cousa nome="viviparo">perro.jpg</cousa>
+              <cousa nome="oviparo">mariposa.jpg</cousa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Escribe debajo de cada animal si es oviparo o viviparo (todo en minusculas)</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir</pe>
+              <modo>1</modo>
+              <cousa nome="viviparo">orca.jpg</cousa>
+              <cousa nome="viviparo">foca.jpg</cousa>
+              <cousa nome="oviparo">gallina.jpg</cousa>
+              <cousa nome="oviparo">mosca.jpg</cousa>
+              <cousa nome="viviparo">guepardo.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Escribe debajo de cada animal si es oviparo o viviparo (todo en minusculas)</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir</pe>
+              <modo>1</modo>
+              <cousa nome="viviparo">ballena.jpg</cousa>
+              <cousa nome="oviparo">aguila.jpg</cousa>
+              <cousa nome="viviparo">leon.jpg</cousa>
+              <cousa nome="oviparo">anchoa.jpg</cousa>
+              <cousa nome="viviparo">cabra.jpg</cousa>
+        </paxina>
+    </libro>
+</lim>

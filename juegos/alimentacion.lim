@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <lim version="4.0">
     <config>
         <idioma>0</idioma>
@@ -10,30 +10,39 @@
         <botonson>1</botonson>
         <maximizar>1</maximizar>
         <desordenar>0</desordenar>
-         <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
+         <sonido nivel="100">M_usica_Relajante_para_ninnos.mp3</sonido>
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >CORRECTO</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >INCORRECTO</incorrecto>
+        <final>../menu.html</final>
     </config>
     <libro>
         <paxina id="1" >
-              <tipo>11</tipo>
-              <cabeceira>Escribe debajo de cada animal si es carnivoro, herbivoro u omnivoro (todo en minusculas)</cabeceira>
-              <modo>1</modo>
-              <cousa nome="herbivoro">Camello.jpg</cousa>
-              <cousa nome="carnivoro">calamar.png</cousa>
-              <cousa nome="omnivoro">oso.jpg</cousa>
-              <cousa nome="herbivoro">ciervo.jpg</cousa>
-              <cousa nome="carnivoro">cocodrilo.jpg</cousa>
+              <tipo>35</tipo>
+              <cabeceira>Ordena de izquierda a derecha, los animales en este orden: productor/herbivoro, carnivoro y depredador.</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <forma>0</forma>
+              <completa>hormiga.jpg</completa>
+              <completa>sapo.jpg</completa>
+              <completa>serpiente.jpg</completa>
+              <completa>aguila.jpg</completa>
         </paxina>
         <paxina id="2" >
-              <tipo>11</tipo>
-              <cabeceira>Escribe debajo de cada animal si es carnivoro, herbivoro u omnivoro (todo en minusculas)</cabeceira>
-              <modo>1</modo>
-              <cousa nome="herbivoro">caballo.jpg</cousa>
-              <cousa nome="omnivoro">cerdo.jpg</cousa>
-              <cousa nome="omnivoro">codorniz.jpg</cousa>
-              <cousa nome="carnivoro">leon.jpg</cousa>
-              <cousa nome="herbivoro">mofeta.jpg</cousa>
+              <tipo>35</tipo>
+              <cabeceira>Ordena de izquierda a derecha, los animales en este orden: productor/herbivoro, carnivoro y depredador.</cabeceira>
+              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <forma>0</forma>
+              <completa>plancton.png</completa>
+              <completa>anchoa.jpg</completa>
+              <completa>atun7.jpg</completa>
+              <completa>tiburon.jpg</completa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>Sabana.jpg</completa>
+              <completa>jirafa.jpg</completa>
+              <completa>licaon.jpg</completa>
+              <completa>leon.jpg</completa>
         </paxina>
     </libro>
 </lim>

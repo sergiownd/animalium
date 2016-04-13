@@ -10,7 +10,7 @@
         <botonson>1</botonson>
         <maximizar>1</maximizar>
         <desordenar>1</desordenar>
-         <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
+         <sonido nivel="100">M_usica_Relajante_para_ninnos.mp3</sonido>
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Bien hecho, sigue así</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >¡Intentémoslo otra vez!</incorrecto>
         <final>../menu.html</final>
@@ -18,20 +18,37 @@
     <libro>
         <paxina id="1" >
               <tipo>4</tipo>
-              <cabeceira>Encuentra los animales en la sopa de letras</cabeceira>
+              <cabeceira>Encuentra los animales VERTEBRADOS</cabeceira>
               <modo>2</modo>
-              <sopa enun="perro.jpg">perro</sopa>
-              <sopa enun="delfin.jpg">delfin</sopa>
-              <sopa enun="elefante.jpg">elefante</sopa>
-              <sopa enun="leon.jpg">leon</sopa>
-              <sopa enun="Escorpion.jpg">escorpion</sopa>
-              <sopa enun="ballena.jpg">ballena</sopa>
-              <sopa enun="Camello.jpg">camello</sopa>
-              <sopa enun="ciervo.jpg">ciervo</sopa>
+              <sopa enun="perro.jpg">PERRO</sopa>
+              <sopa enun="delfin.jpg">DELFIN</sopa>
+              <sopa enun="leon.jpg">LEON</sopa>
+              <sopa enun="ballena.jpg">BALLENA</sopa>
+              <sopa enun="Camello.jpg">CAMELLO</sopa>
+              <sopa enun="ciervo.jpg">CIERVO</sopa>
+              <sopa enun="cocodrilo.jpg">COCODRILO</sopa>
+              <sopa enun="caballo.jpg">CABALLO</sopa>
               <enunciado>0</enunciado>
               <colorea>1</colorea>
               <cadro>0</cadro>
-              <fondo>qwertyuiopasdfghjklzxcvbnm</fondo>
+              <fondo>QWERTYUIOPASDFGHJKLÑMNBVCXZ</fondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>4</tipo>
+              <cabeceira>Encuentra los animales INVERTEBRADOS</cabeceira>
+              <modo>2</modo>
+              <sopa enun="mejillon.jpg">MEJILLON</sopa>
+              <sopa enun="langosta.jpg">LANGOSTA</sopa>
+              <sopa enun="gusano.jpg">GUSANO</sopa>
+              <sopa enun="hormiga.jpg">HORMIGA</sopa>
+              <sopa enun="caracol.jpg">CARACOL</sopa>
+              <sopa enun="pulpo.jpg">PULPO</sopa>
+              <sopa enun="cangrejo.jpg">CANGREJO</sopa>
+              <sopa enun="tarantula.jpg">TARANTULA</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>QWERTYUIOPASDFGHJKLZXCVBNMÑ</fondo>
         </paxina>
     </libro>
 </lim>

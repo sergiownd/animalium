@@ -10,33 +10,37 @@
         <botonson>1</botonson>
         <maximizar>1</maximizar>
         <desordenar>0</desordenar>
-         <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
+         <sonido nivel="100">M_usica_Relajante_para_ninnos.mp3</sonido>
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Bien, Muy bien</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >Intentémoslo Otra Vez</incorrecto>
+        <final>../menu.html</final>
     </config>
     <libro>
         <paxina id="1" >
               <tipo>17</tipo>
+              <cabeceira>Encuentra estas parejas de VIVIPAROS</cabeceira>
               <parellas>ballena.jpg</parellas>
               <parellas>lobo7.jpg</parellas>
-              <parellas>iguana.jpg</parellas>
+              <parellas>guepardo.jpg</parellas>
               <parellas>caballo.jpg</parellas>
-              <parellas>buho.jpg</parellas>
+              <parellas>cerdo.jpg</parellas>
               <parellas>leon.jpg</parellas>
               <cfondo>FFFFFF</cfondo>
               <ctapa>000000</ctapa>
-              <tempo>30</tempo>
+              <tempo>60</tempo>
         </paxina>
         <paxina id="2" >
               <tipo>17</tipo>
-              <parellas>guepardo.jpg</parellas>
-              <parellas>rana.jpg</parellas>
-              <parellas>mono.jpg</parellas>
-              <parellas>zorro.jpg</parellas>
+              <cabeceira>Encuentra estas parejas de OVIPAROS</cabeceira>
+              <parellas>pinguino.jpg</parellas>
+              <parellas>codorniz.jpg</parellas>
+              <parellas>saltamontes.jpg</parellas>
+              <parellas>gallina.jpg</parellas>
               <parellas>pulpo.jpg</parellas>
-              <parellas>foca.jpg</parellas>
+              <parellas>salmon.jpg</parellas>
               <cfondo>FFFFFF</cfondo>
               <ctapa>000000</ctapa>
+              <tempo>60</tempo>
         </paxina>
     </libro>
 </lim>
