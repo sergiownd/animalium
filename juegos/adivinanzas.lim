@@ -10,10 +10,10 @@
         <botonson>1</botonson>
         <maximizar>1</maximizar>
         <desordenar>0</desordenar>
-         <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
+        <sonido nivel="20">M_usica_Relajante_para_ninnos.mp3</sonido>
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Muy bien, sigue así</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >Intentémoslo de nuevo</incorrecto>
-        <final>../menu.html</final> 
+        <final></final> 
     </config>
     <libro>
         <paxina id="1" >

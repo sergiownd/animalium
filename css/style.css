@@ -13,9 +13,13 @@
 }
 .muñeco2{
     position: absolute;
-    height: 400px;
-    bottom: 100px
+    height: 300px;
+    bottom: 100px;
+    cursor: pointer;
     
+}
+.muñeco2:hover{
+    height: 400px;
 }
 h1{
     position: absolute;
@@ -28,10 +32,11 @@ h1:hover{
     transform: scale(1.1); 
 }
 .bienvenido{
+    font-size: 20px;
     display: none;
     position: absolute;
-    top: 40px;
-    right: 370px; 
+    top: 25px;
+    right: 390px; 
     color: aquamarine;
     text-shadow: 2px 2px black;
 }
@@ -90,10 +95,15 @@ h1:hover{
     bottom: -230px;
     
 }
+#imput-a{
+    position: absolute;
+    bottom: -270px;
+    
+}
 
 #entra{
     position: absolute;
-    bottom: -290px;
+    bottom: -340px;
     left: 230px;
     height: 50px;
     width: 100px;
@@ -131,6 +141,7 @@ h1:hover{
     border: 1px solid black;
     margin-top: 100px;
     margin-left: 5px;
+    background: url(../image/fondo-temas.png) left center repeat-x;
 }
 .juego1{
     height: 550px;
@@ -205,5 +216,32 @@ h1:hover{
 }
 .juego-tema>a:hover{
     text-decoration: none;
+}
+.juego-tema-dos{
+    border: 1px solid black;
+    margin-top: 50px;
+    background-color: lightgray;
+}
+.juego-tema-dos>a{
+    text-decoration: none;
+}
+.juego-tema-dos>a:hover{
+    text-decoration: none;
+}
+.juega{
+    position: absolute;
+    bottom: -460px;
+    left: 300px;
+    font-size: 40px;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.error{
+    display: none;
+    position: absolute;
+    bottom: -180px;
+    left: 350px;
+    font-size: 20px;
+    color: red;
 }
 
