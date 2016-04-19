@@ -17,7 +17,6 @@
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Bien hecho, sigue asi</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >Intentémoslo de nuevo</incorrecto>
         <modomenu>2</modomenu>
-        <final>../menu.html</final>
     </config>
     <libro>
         <paxina id="1" >

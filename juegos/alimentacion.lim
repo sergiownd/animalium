@@ -13,7 +13,6 @@
          <sonido nivel="100">M_usica_Relajante_para_ninnos.mp3</sonido>
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >CORRECTO</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >INCORRECTO</incorrecto>
-        <final></final>
     </config>
     <libro>
         <paxina id="1" >

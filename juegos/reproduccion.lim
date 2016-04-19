@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <lim version="4.0">
     <config>
         <idioma>0</idioma>
@@ -13,7 +13,6 @@
          <sonido nivel="100">M_usica_Relajante_para_ninnos.mp3</sonido>
         <correcto son="Cartoon_Winning_Sound_Effect.mp3" modo="1" >Muy bien, Sigue así</correcto>
         <incorrecto son="Aaawwww_-_Sound_Effect.mp3" modo="1" >¡Intentémoslo de nuevo!</incorrecto>
-        <final>../menu.html</final>
     </config>
     <libro>
         <paxina id="1" >
