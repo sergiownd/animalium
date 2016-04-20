@@ -22,6 +22,7 @@
         <paxina id="1" >
               <tipo>7</tipo>
               <cabeceira>Clasifica las siguientes imagenes según sean vertebrados o invertebrados</cabeceira>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <caixa1>Vertebrados</caixa1>
               <caixa2>Invertebrados</caixa2>
               <mini caixa="1">ciervo.jpg</mini>
@@ -36,6 +37,7 @@
         </paxina>
         <paxina id="2" >
               <tipo>7</tipo>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <caixa1>Vertebrados</caixa1>
               <caixa2>Invertebrados</caixa2>
               <mini caixa="1">murcielago.jpg</mini>

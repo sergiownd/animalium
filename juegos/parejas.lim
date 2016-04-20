@@ -18,6 +18,7 @@
         <paxina id="1" >
               <tipo>17</tipo>
               <cabeceira>Encuentra estas parejas de VIVIPAROS</cabeceira>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <parellas>ballena.jpg</parellas>
               <parellas>lobo7.jpg</parellas>
               <parellas>guepardo.jpg</parellas>
@@ -31,6 +32,7 @@
         <paxina id="2" >
               <tipo>17</tipo>
               <cabeceira>Encuentra estas parejas de OVIPAROS</cabeceira>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <parellas>pinguino.jpg</parellas>
               <parellas>codorniz.jpg</parellas>
               <parellas>saltamontes.jpg</parellas>

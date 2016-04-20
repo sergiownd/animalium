@@ -17,6 +17,7 @@
     <libro>
         <paxina id="1" >
               <tipo>19</tipo>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <imaxe>jirafa.jpg</imaxe>
               <texto><![CDATA[Largo, largo, su cuello es
 y tiene manchas en la piel.
@@ -28,6 +29,7 @@ sabrás quién es.]]></texto>
         </paxina>
         <paxina id="2" >
               <tipo>19</tipo>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <imaxe>gaviota.jpg</imaxe>
               <texto><![CDATA[Con su risa mañanera
 toda la playa alborota,
@@ -38,6 +40,7 @@ pescadora y marinera.]]></texto>
         </paxina>
         <paxina id="3" >
               <tipo>19</tipo>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <imaxe>caracol.jpg</imaxe>
               <texto><![CDATA[Un solo portero,
 un solo inquilino,
@@ -49,6 +52,7 @@ la llevas contigo.]]></texto>
         </paxina>
         <paxina id="4" >
               <tipo>19</tipo>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <imaxe>cabra.jpg</imaxe>
               <texto><![CDATA[Donde nadie sube, trepo,
 lo que nadie come, trisco,
@@ -60,6 +64,7 @@ pues lo mío son los riscos.]]></texto>
         </paxina>
         <paxina id="5" >
               <tipo>19</tipo>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <imaxe>ardilla.jpg</imaxe>
               <texto><![CDATA[¿Quién allá en lo alto
 en las ramas mora
@@ -71,6 +76,7 @@ todo lo que roba?]]></texto>
         </paxina>
         <paxina id="6" >
               <tipo>19</tipo>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <imaxe>lagarto.jpg</imaxe>
               <texto><![CDATA[De verde esmeralda
 sobre la tapiada,

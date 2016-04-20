@@ -18,7 +18,7 @@
         <paxina id="1" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en el MAR?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="abeja.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="langosta.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="bicho_palo.jpg" texto="">0</etiqueta>
@@ -30,7 +30,7 @@
         <paxina id="2" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en la COSTA?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="tortuga.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="pulpo.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="cocodrilo.jpg" texto="">0</etiqueta>
@@ -42,7 +42,7 @@
         <paxina id="3" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en RIO?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="pez_sergio.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="sapo.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="caracol.jpg" texto="">0</etiqueta>
@@ -54,7 +54,7 @@
         <paxina id="4" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en el ARTICO?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="oso_polar.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="pinguino.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="foca.jpg" texto="">1</etiqueta>

@@ -18,7 +18,7 @@
         <paxina id="1" >
               <tipo>24</tipo>
               <cabeceira>¿Cuales de los siguientes animales habita en la SABANA?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="jirafa.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="mantarraya.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="guepardo.jpg" texto="">1</etiqueta>
@@ -30,7 +30,7 @@
         <paxina id="2" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en el DESIERTO?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="salmon.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="serpiente.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="tarantula.jpg" texto="">1</etiqueta>
@@ -42,7 +42,7 @@
         <paxina id="3" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en la SELVA?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="pantera.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="hipo.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="loro.jpg" texto="">1</etiqueta>
@@ -54,7 +54,7 @@
         <paxina id="4" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en el BOSQUE?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="gusano.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="elefante.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="conejo.jpg" texto="">1</etiqueta>
@@ -66,7 +66,7 @@
         <paxina id="5" >
               <tipo>24</tipo>
               <cabeceira>¿Cual de los siguientes animales habitan en la PRADERA?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="sapo.jpg" texto="">0</etiqueta>
               <etiqueta imaxe="mofeta.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="hormiga.jpg" texto="">1</etiqueta>
@@ -77,8 +77,7 @@
         </paxina>
         <paxina id="6" >
               <tipo>24</tipo>
-              <cabeceira>¿Cual de los siguientes animales habitan en la MONTAÑA?</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <etiqueta imaxe="ardilla.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="lobo7.jpg" texto="">1</etiqueta>
               <etiqueta imaxe="esponja.jpg" texto="">0</etiqueta>

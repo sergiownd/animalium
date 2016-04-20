@@ -18,7 +18,7 @@
         <paxina id="1" >
               <tipo>35</tipo>
               <cabeceira>Ordena de izquierda a derecha, los animales en este orden: productor/herbivoro, carnivoro y depredador.</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <forma>0</forma>
               <completa>hormiga.jpg</completa>
               <completa>sapo.jpg</completa>
@@ -28,7 +28,7 @@
         <paxina id="2" >
               <tipo>35</tipo>
               <cabeceira>Ordena de izquierda a derecha, los animales en este orden: productor/herbivoro, carnivoro y depredador.</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir el ejercicio</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <forma>0</forma>
               <completa>plancton.png</completa>
               <completa>anchoa.jpg</completa>
@@ -38,6 +38,7 @@
         <paxina id="3" >
               <tipo>35</tipo>
               <forma>0</forma>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <completa>Sabana.jpg</completa>
               <completa>jirafa.jpg</completa>
               <completa>licaon.jpg</completa>

@@ -18,7 +18,7 @@
         <paxina id="1" >
               <tipo>11</tipo>
               <cabeceira>Escribe debajo de cada animal si es oviparo o viviparo (todo en minusculas)</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <modo>1</modo>
               <cousa nome="viviparo">ciervo.jpg</cousa>
               <cousa nome="oviparo">saltamontes.jpg</cousa>
@@ -29,7 +29,7 @@
         <paxina id="2" >
               <tipo>11</tipo>
               <cabeceira>Escribe debajo de cada animal si es oviparo o viviparo (todo en minusculas)</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <modo>1</modo>
               <cousa nome="viviparo">orca.jpg</cousa>
               <cousa nome="viviparo">foca.jpg</cousa>
@@ -40,7 +40,7 @@
         <paxina id="3" >
               <tipo>11</tipo>
               <cabeceira>Escribe debajo de cada animal si es oviparo o viviparo (todo en minusculas)</cabeceira>
-              <pe>Cuando termines el ejercicio presiona el tick de debajo para corregir</pe>
+              <pe>Para corregir el ejercicio pulsa el tick.Para salir pulsa la "X" de abajo a la derecha</pe>
               <modo>1</modo>
               <cousa nome="viviparo">ballena.jpg</cousa>
               <cousa nome="oviparo">aguila.jpg</cousa>

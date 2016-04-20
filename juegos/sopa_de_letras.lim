@@ -18,6 +18,7 @@
         <paxina id="1" >
               <tipo>4</tipo>
               <cabeceira>Encuentra los animales VERTEBRADOS</cabeceira>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <modo>2</modo>
               <sopa enun="perro.jpg">PERRO</sopa>
               <sopa enun="delfin.jpg">DELFIN</sopa>
@@ -35,6 +36,7 @@
         <paxina id="2" >
               <tipo>4</tipo>
               <cabeceira>Encuentra los animales INVERTEBRADOS</cabeceira>
+              <pe>Para salir pulsa la "X" de abajo a la derecha</pe>
               <modo>2</modo>
               <sopa enun="mejillon.jpg">MEJILLON</sopa>
               <sopa enun="langosta.jpg">LANGOSTA</sopa>
