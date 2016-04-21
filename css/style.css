@@ -259,4 +259,12 @@ h1:hover{
     font-size: 20px;
     color: red;
 }
+.errorp{
+    display: none;
+    position: absolute;
+    font-size: 20px;
+    color: red;
+    left: 150px;
+    top: 230px;
+}
 

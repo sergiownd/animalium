@@ -18,7 +18,7 @@ $(document).ready(function(){
         
         if (volume == true){
             var audioElement = document.createElement('audio');
-            audioElement.setAttribute('src', '../juegos/Cartoon_Winning_Sound_Effect.mp3');
+            audioElement.setAttribute('src', '../audio/Intro.m4a');
             audioElement.setAttribute('autoplay', 'autoplay');
             //audioElement.load()
 
@@ -43,7 +43,7 @@ $(document).ready(function(){
         
         if (volume == true){
             var audioElement = document.createElement('audio');
-            audioElement.setAttribute('src', '../juegos/Cartoon_Winning_Sound_Effect.mp3');
+            audioElement.setAttribute('src', '../audio/Menu.m4a');
             audioElement.setAttribute('autoplay', 'autoplay');
             //audioElement.load()
 
@@ -71,14 +71,25 @@ $(document).ready(function(){
 
     });
     
-    $("#entra").click(function(){
-        if($("#imput-n").val() === "usuario"){
-            if ($("#imput-a").val() === "1234"){
+    $("#entra").click(function(){ 
+        if(($("#imput-n").val() === "alumno") || ($("#imput-n").val() === "usuarua")){
+             console.log("cliked");
+            if ($("#imput-a").val() == "1234"){
                 $("#entra").attr('href', './menu.html');
             }
         }
         else{
             $(".error").css("display","block");
+        }
+    });
+    $("#login").click(function(){
+        if($("#imput-pn").val() === "profesor"){
+            if ($("#imput-pa").val() === "admin"){
+                $("#login").attr('href', './admin/index.html');
+            }
+        }
+        else{
+            $(".errorp").css("display","block");
         }
     });
     
